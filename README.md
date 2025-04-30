@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Abbas Baman
 
-<!--
-**abbasbaman/abbasbaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior DevOps & SRE Engineer** with 7+ years of experience in building scalable, automated cloud-native solutions across AWS, Azure, and GCP.
 
-Here are some ideas to get you started:
+🔧 **Technical Expertise**:
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm
+- **Infrastructure as Code**: Terraform, Azure ARM
+- **CI/CD & Version Control**: Git, Jenkins, GitLab, Azure DevOps
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, OpenTelemetry, K8sGPT
+- **Scripting**: Python, Bash, PowerShell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me**:
+- [LinkedIn](https://www.linkedin.com/in/abbasbaman)
+- [Email](mailto:abbasbaman@example.com)
