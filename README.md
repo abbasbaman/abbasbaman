@@ -11,5 +11,5 @@
 - **Scripting**: Python, Bash, PowerShell
 
 📫 **Connect with me**:
-- [LinkedIn](https://www.linkedin.com/in/abbasbaman)
-- [Email](mailto:abbasbaman@example.com)
+- [LinkedIn](https://www.linkedin.com/in/abbas-baman/)
+- [Email](mailto:abbasbaman007@gmail.com)
