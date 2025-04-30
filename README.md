@@ -14,7 +14,7 @@
 - [LinkedIn](https://www.linkedin.com/in/abbas-baman/)
 - [Email](mailto:abbasbaman007@gmail.com)
 
-
-
+---
 ![Abbas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasbaman&show_icons=true&theme=radical)
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasbaman&layout=compact&theme=radical)
